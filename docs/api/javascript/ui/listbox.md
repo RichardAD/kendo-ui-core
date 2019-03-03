@@ -393,7 +393,7 @@ Defines the text of the **Move Down** button that is located in the toolbar of t
             },
             messages: {
                 tools: {
-                    moveUp: "MoveDown"
+                    moveDown: "MoveDown"
                 }
             }
         });
